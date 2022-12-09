@@ -16,7 +16,7 @@ Il ne reste alors plus qu'à sélectionner les K premiers logements après le tr
 Nous pouvons finalement entrainer d'autres modèles en prenant en compte d'autres et/ou plus d'attributs.   
   
 ## Compilation
-Une fois dans le dossier du projet, le terminal vous permet d'executer les commandes suivantes :  
+Une fois dans le dossier du projet, le terminal vous permet d'exécuter les commandes suivantes :  
 * make airbnb : compile et exécute le projet
 * make run : exécute le projet
 * make clean : nettoie le projet
