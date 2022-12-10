@@ -18,6 +18,6 @@ Nous pouvons finalement entrainer d'autres modèles en prenant en compte d'autre
   
 ## Compilation
 Une fois dans le dossier du projet, le terminal vous permet d'exécuter les commandes suivantes :  
-* make airbnb : compile le projet une première fois et l'excécute
+* make airbnb : compile le projet une première fois et l'exécute
 * make run : exécute le projet
 * make clean : nettoie le projet  
