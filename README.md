@@ -1,7 +1,7 @@
 # Airbnb
 Intitulé : Prédire le prix d’une habitation qu’on veut mettre en  location dans la plateforme Airbnb  
 (Projet de Programmation Procédurale ING 1 GI GM 2022-2023)  
-Groupe : BOURGOGNE Matthieu et BRIGITTE Maëva
+__Groupe : BOURGOGNE Matthieu et BRIGITTE Maëva__
  
 ## Objectif
 L'objectif de ce projet est d'implémenter en langage C l'algorithme des K plus proches voisins pour prédire le prix d'un logement X qu'on veut mettre en location.  
